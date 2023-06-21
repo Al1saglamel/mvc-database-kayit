@@ -1,0 +1,62 @@
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\bin\Debug\net7.0\appsettings.json
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.staticwebassets.runtime.json
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.exe
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.deps.json
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.runtimeconfig.json
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.dll
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.pdb
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.csproj.AssemblyReference.cache
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.AssemblyInfoInputs.cache
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.AssemblyInfo.cs
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.csproj.CoreCompileInputs.cache
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.RazorAssemblyInfo.cache
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.RazorAssemblyInfo.cs
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets\msbuild.mvcAliProje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets\msbuild.build.mvcAliProje.props
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mvcAliProje.props
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mvcAliProje.props
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\scopedcss\bundle\mvcAliProje.styles.css
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\scopedcss\projectbundle\mvcAliProje.bundle.scp.css
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.dll
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\refint\mvcAliProje.dll
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.pdb
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.genruntimeconfig.cache
+C:\Users\Tacettin Dağtekin\Desktop\mvcAliProje\obj\Debug\net7.0\ref\mvcAliProje.dll
+C:\Users\sesa\Desktop\mvcAliProje\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sesa\Desktop\mvcAliProje\bin\Debug\net7.0\appsettings.json
+C:\Users\sesa\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.staticwebassets.runtime.json
+C:\Users\sesa\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.exe
+C:\Users\sesa\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.deps.json
+C:\Users\sesa\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.runtimeconfig.json
+C:\Users\sesa\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.dll
+C:\Users\sesa\Desktop\mvcAliProje\bin\Debug\net7.0\mvcAliProje.pdb
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.csproj.AssemblyReference.cache
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.AssemblyInfoInputs.cache
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.AssemblyInfo.cs
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.csproj.CoreCompileInputs.cache
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.RazorAssemblyInfo.cache
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.RazorAssemblyInfo.cs
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets\msbuild.mvcAliProje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets\msbuild.build.mvcAliProje.props
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mvcAliProje.props
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mvcAliProje.props
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\scopedcss\bundle\mvcAliProje.styles.css
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\scopedcss\projectbundle\mvcAliProje.bundle.scp.css
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.dll
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\refint\mvcAliProje.dll
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.pdb
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\mvcAliProje.genruntimeconfig.cache
+C:\Users\sesa\Desktop\mvcAliProje\obj\Debug\net7.0\ref\mvcAliProje.dll
